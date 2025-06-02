@@ -9,8 +9,7 @@ Welcome to my GitHub profile! I'm passionate about building impactful software a
 - 🧑‍💻 **Developer | Problem Solver | Tech Enthusiast**
 - 🎓 Always learning, always curious — from backend APIs to slick UIs!
 - 🌱 Currently exploring **AI-powered applications**, **automation**, and **cloud deployments**.
-- 🎾 Tennis fan & highlight curator (check out my Tennis-Highlight-App!)
-- ☕ Runs on coffee, code, and curiosity.
+- 🎾 Tennis fan & highlight curator (check out my Tennis-Highlight-Aggregator!)
 
 ---
 
@@ -34,7 +33,8 @@ Analyze and score resumes for top tech jobs using Python & NLP.
 
 ## 🤝 Let’s Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+- 📧 Email: stefos217@gmail.com  
 
 *Feel free to reach out for collaboration, feedback, or a quick chat about tech and tennis!*
 
