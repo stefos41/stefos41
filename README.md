@@ -1,4 +1,52 @@
-## Hi there 👋
+# 👋 Hi there, I'm Stefan!
+
+Welcome to my GitHub profile! I'm passionate about building impactful software and learning new technologies every day. Whether you're here to explore my projects, collaborate, or just say hello, I'm glad you stopped by.
+
+---
+
+## 🚀 About Me
+
+- 🧑‍💻 **Developer | Problem Solver | Tech Enthusiast**
+- 🎓 Always learning, always curious — from backend APIs to slick UIs!
+- 🌱 Currently exploring **AI-powered applications**, **automation**, and **cloud deployments**.
+- 🎾 Tennis fan & highlight curator (check out my Tennis-Highlight-App!)
+- ☕ Runs on coffee, code, and curiosity.
+
+---
+
+## 🛠️ Languages & Technologies
+
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Frameworks & Tools:** FastAPI, Streamlit, Flask, Docker, Chrome Extensions, HarperDB, yt-dlp
+- **Interests:** Machine Learning, Natural Language Processing, Data Visualization, Web Automation
+
+---
+
+## 💡 Featured Projects
+
+### 🎾 [Tennis-Highlight-App](https://github.com/stefos41/Tennis-Highlight-App)
+Save and manage tennis highlight videos from YouTube! Chrome extension, Streamlit dashboard & FastAPI backend.
+
+### 🤖 [FAANG-Resume-Analyzer](https://github.com/stefos41/FAANG-Resume-Analyzer)
+Analyze and score resumes for top tech jobs using Python & NLP.
+
+---
+
+## 🤝 Let’s Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
+
+*Feel free to reach out for collaboration, feedback, or a quick chat about tech and tennis!*
+
+---
+
+## 🌟 Fun Fact
+
+> "You have to believe in the long term plan you have, but you need the short term goals to motivate and inspire you." — Roger Federer
+
+---
+
+Thanks for visiting! 
 
 <!--
 **stefos41/stefos41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
