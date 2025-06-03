@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm passionate about building impactful software a
 
 ## 💡 Featured Projects
 
-### 🎾 [Tennis-Highlight-App](https://github.com/stefos41/Tennis-Highlight-Aggregator)
+### 🎾 [Tennis-Highlight-Aggregator](https://github.com/stefos41/Tennis-Highlight-Aggregator)
 Save and manage tennis highlight videos from YouTube! Chrome extension, Streamlit dashboard & FastAPI backend.
 
 ### 🤖 [FAANG-Resume-Analyzer](https://github.com/stefos41/FAANG-Resume-Analyzer)
