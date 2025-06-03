@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about building impactful software a
 ## 🛠️ Languages & Technologies
 
 - **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks & Tools:** FastAPI, Streamlit, Flask, Docker, Chrome Extensions, HarperDB, yt-dlp
+- **Frameworks & Tools:** FastAPI, Streamlit, Flask, Chrome Extensions, HarperDB, yt-dlp
 - **Interests:** Machine Learning, Natural Language Processing, Data Visualization, Web Automation
 
 ---
