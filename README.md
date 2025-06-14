@@ -33,7 +33,7 @@ Analyze and score resumes for top tech jobs using Python & NLP.
 
 ## 🤝 Let’s Connect!
 
-[LinkedIn Profile](https://www.linkedin.com/in/stefan-spatariu-b03bb7369/?trk=opento_sprofile_topcard)
+[LinkedIn Profile](www.linkedin.com/in/stefan-spatariu-b03bb7369)
 - 📧 Email: stef.spat4@outlook.com
 
 *Feel free to reach out for collaboration, feedback, or a quick chat about tech and tennis!*
