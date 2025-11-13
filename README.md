@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about building impactful software a
 ## 🛠️ Languages & Technologies
 
 - **Languages:** Java, Python, JavaScript
-- **Frameworks & Tools:** FastAPI, Streamlit, Chrome Extensions, HarperDB, yt-dlp, Next.js, React, Tailwind CSS
+- **Frameworks & Tools:** FastAPI, HarperDB, Next.js, React, Tailwind CSS
 - **Interests:** Machine Learning, Natural Language Processing, Data Visualization, Web Automation
 
 ---
